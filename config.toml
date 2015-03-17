@@ -1,0 +1,15 @@
+baseurl = "http://pravka.net/"
+languageCode = "en-us"
+title = "pravka"
+DisqusShortname = "pravka"
+Copyright = "All rights reserved - 2015"
+
+[params]
+description = "the v is silent"
+cover = "images/cover_field.jpg"
+logo = "images/logo.png"
+twitterName = "pravka"
+githubName = "pravka"
+
+[permalinks]
+post = "/:slug/"
