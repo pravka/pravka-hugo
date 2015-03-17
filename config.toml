@@ -1,4 +1,4 @@
-baseurl = "http://pravka.net/"
+baseurl = "https://pravka.net/"
 languageCode = "en-us"
 title = "pravka"
 DisqusShortname = "pravka"
