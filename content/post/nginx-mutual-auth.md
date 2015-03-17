@@ -6,6 +6,9 @@ slug = "nginx-mutual-auth"
 tags = ["nginx", "ssl"]
 +++
 
+Here's how to configure Nginx w/ mutual authentication via client certificates.
+
+<!--more-->
 
 Create the CA Key and Certificate for signing Client Certs:
 
